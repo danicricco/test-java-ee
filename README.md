@@ -15,9 +15,7 @@ Descripción del Proyecto
 
 Esta aplicación es para un manejador de tareas. 
 
-La intención de la aplicación es la de presentar en una página, una lista de tareas que es obtenida desde una base de dato relacional. 
-
-También debe proveer endpoints REST para hacer un CRUD de las tareas.
+La intención de la aplicación es la de proveer un CRUD de tareas que son manejadas desde una base de datos relacional. 
 
 El resto de esta documentación se escribe en inglés con propósitos de evaluar la comprensión del idioma de los participantes.
 
