@@ -175,7 +175,7 @@ You can run the project inside a Jboss Wildfly container by generating the WAR:
 
     mvn package
 
-Then start the Wildfly server on your local machine.  
+Then start the Wildfly server on your local machine and deploy the WAR file.  
 
 To see the application's home page, point your browser to
 `http://localhost:8080/testjee`.  This page shows a welcome message to the user.
